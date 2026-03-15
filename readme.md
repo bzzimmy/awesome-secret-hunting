@@ -1,6 +1,13 @@
-# Awesome Secret Hunting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <br>
+  <img width="400" src="./assets/logo.png" alt="logo of awesome-secret-hunting repository">
+  <br>
+  <br>
+</p>
 
-> A curated list of &lt;insert awesome stuff&gt;
+## Awesome Secret Hunting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> Detecting secrets and credentials leaked in source code, repositories, and digital assets.
 
 
 ## Contents
