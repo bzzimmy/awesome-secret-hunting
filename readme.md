@@ -51,6 +51,7 @@ Where secrets leak.
 - [Kingfisher](https://github.com/mongodb/kingfisher) - SIMD-accelerated secret scanner built in Rust with live validation, revocation, and blast radius mapping across repos, cloud storage, and chat platforms.
 - [Titus](https://github.com/praetorian-inc/titus) - Hyperscan-accelerated secrets scanner with 487 rules that runs as a CLI, Go library, Burp Suite extension, and Chrome extension.
 - [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Finds and validates leaked credentials across Git, wikis, chats, logs, object stores, and filesystems with over 800 secret type detectors.
+- [VibeLocked LeakCheck](https://github.com/karlaCastro00/vibelocked-leakcheck-action) - Free MIT scanner and GitHub Action for leaked keys in a repo or build output, plus a read only live URL check for exposed Supabase tables, `.env`, `.git`, and source map files.
 
 
 ## Methodology & Research
